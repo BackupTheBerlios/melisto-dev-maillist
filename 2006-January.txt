@@ -1,0 +1,10 @@
+From kiaton at mail.ru  Tue Jan 24 21:10:09 2006
+From: kiaton at mail.ru (Andrey Ryzhkov)
+Date: Tue, 24 Jan 2006 22:10:09 +0200
+Subject: [Melisto-dev] Welcome
+Message-ID: <1138133409.4494.1.camel@localhost.localdomain>
+
+Welcome to the Melisto Project mailing list.
+
+
+
